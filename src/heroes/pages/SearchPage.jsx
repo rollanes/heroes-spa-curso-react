@@ -26,7 +26,7 @@ export const SearchPage = () => {
 
   return (
     <>
-      <h1>Search page</h1>
+      <h1 className="mt-2">Search page</h1>
       <hr />
       <div className="row">
         <div className="col-5">
